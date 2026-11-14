@@ -1,0 +1,6 @@
+{
+  "name": "Einsteinium Technical Configuration (E=TC²)",
+  "description": "Remote technical support, phone and laptop hardware repair, creator short-form video production, and enterprise AI automation in Tuscaloosa & Holt, Alabama and nationwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
